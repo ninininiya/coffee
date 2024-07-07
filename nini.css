@@ -52,13 +52,8 @@
 .phone{
     display: none;
 }
-@media (max-width: 576px){
-    .wrap-middle{
-        display: none;
-    }
-}
 
-@media (max-width: 375px){
+@media (max-width: 768px){
     .desktop{
         display: none;
     }
